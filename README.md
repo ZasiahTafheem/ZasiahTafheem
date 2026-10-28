@@ -1,6 +1,6 @@
 # Hi, I'm Zasiah Tafheem 👋
 
-📊 Aspiring Data Analyst | 📈 Power BI | SQL | Excel | Python learner
+📊 Data Analyst Candidate | 📈 Power BI | SQL | Excel | Python learner
 
 🎓 HDR Student with a passion for data analytics, business intelligence, and interactive dashboards. I enjoy turning complex datasets into meaningful insights that help organizations make better decisions. This portfolio features my projects in Power BI, SQL (in process), Excel, and Python.
 
