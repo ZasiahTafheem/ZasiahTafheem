@@ -1,10 +1,8 @@
 # Hi, I'm Zasiah Tafheem 👋
 
-📊 Data Analyst Portfolio | Power BI | SQL | Excel | Python
+📊 Aspiring Data Analyst | 📈 Power BI | SQL | Excel | Python learner
 
-🎓 HDR Student | 📊 Aspiring Data Analyst | 📈 Power BI Enthusiast
-
-I am passionate about transforming raw data into actionable insights through data analysis, visualization, and business intelligence solutions. My GitHub portfolio showcases projects in Power BI, SQL(in process), Python designed to solve real-world business problems and support data-driven decision-making.
+🎓 HDR Student with a passion for data analytics, business intelligence, and interactive dashboards. I enjoy turning complex datasets into meaningful insights that help organizations make better decisions. This portfolio features my projects in Power BI, SQL (in process), Excel, and Python.
 
 ## 🚀 About Me
 
@@ -31,7 +29,8 @@ I am passionate about transforming raw data into actionable insights through dat
 
 ### Visualization
 - Power BI
-- Excel Dashboards
+- Canva
+- Adobe Illustrator
 
 ## 📂 Featured Projects
 
