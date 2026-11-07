@@ -32,10 +32,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, profit
 
 Tools: Power BI, Power Query, DAX
 
-```bash
-git clone https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi
-
-🔗 [View Project] (https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi)
+🔗 [View Project](https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi)
 
 ## 📈 Currently Learning
 
@@ -50,9 +47,8 @@ git clone https://github.com/ZasiahTafheem/executive-sales-performance-dashboard
 -Advanced Excel
 
 ## 🌐 Connect With Me
-```bash
-git clone https://www.linkedin.com/in/zasiahtafheem/
-🔗 [LinkedIn Profile] (https://www.linkedin.com/in/zasiahtafheem/)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/zasiahtafheem/)
 
 - Email: zasiahtafheem1@gmail.com
 ---
