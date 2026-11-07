@@ -16,25 +16,13 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 ## 🛠️ Technical Skills
 
-## Data Analytics 
-- Power BI
-- Excel
-- Power Query
-- DAX
-- Data Cleaning & Transformation
+Data Analytics: Power BI, Excel, Power Query, DAX
 
-## Databases
-- SQL (MySQL)
+Databases: SQL (MySQL)
 
-## Programming
-- Python
-- Pandas
-- NumPy
+Programming: Python, Pandas, NumPy
 
-## Visualization & Design
-- Power BI
-- Canva
-- Adobe Illustrator
+Visualization & Design: Power BI, Canva, Adobe Illustrator
 
 ## 📂 Featured Projects
 
@@ -44,16 +32,15 @@ Developed an interactive Power BI dashboard to analyze sales performance, profit
 
 Tools: Power BI, Power Query, DAX
 
-🔗 View Project 
-https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi
+##🔗 [View Project] (https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi)
 
 ## 📈 Currently Learning
 
--SQL (MySQL)
+-SQL query optimization
 
 -Python for Data Analysis
 
--Power BI DAX
+-Statistical Analysis
 
 -Data Visualization Best Practices
 
@@ -61,7 +48,7 @@ https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/zasiahtafheem/
+## 🔗 [LinkedIn Profile] (https://www.linkedin.com/in/zasiahtafheem/)
 - Email: zasiahtafheem1@gmail.com
 ---
 ## 🎯 Career Objective
