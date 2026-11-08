@@ -34,7 +34,7 @@ Tools: Power BI, Power Query, DAX
 
 🔗 [View Project](https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi)
 
-## 📈 Currently Learning
+## 🌱 Currently Learning
 
 -SQL query optimization
 
@@ -52,8 +52,9 @@ Tools: Power BI, Power Query, DAX
 
 - Email: zasiahtafheem1@gmail.com
 ---
-## 🎯 Career Objective
 
-Seeking an opportunity as a Junior Data Analyst, Reporting Analyst, or Business Intelligence Analyst to apply analytical thinking and data-driven problem-solving skills while gaining hands-on experience in data analysis, reporting, and visualization.
+## 🎯 Open to Data Analytics Opportunities
+
+Interested in Junior Data Analyst, Reporting Analyst, and Business Intelligence Analyst opportunities. Passionate about using data to uncover insights, support decision-making, and create meaningful visualizations while continuing to grow my technical skills.
 
 ⭐ Feel free to explore my repositories and connect with me.
