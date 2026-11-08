@@ -16,13 +16,13 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 ## 🛠️ Technical Skills
 
-Data Analytics: Power BI, Excel, Power Query, DAX
+**Data Analytics**: Power BI, Excel, Power Query, DAX
 
-Databases: SQL (MySQL)
+**Databases**: SQL (MySQL)
 
-Programming: Python, Pandas, NumPy
+**Programming**: Python, Pandas, NumPy
 
-Visualization & Design: Power BI, Canva, Adobe Illustrator
+**Visualization & Design**: Power BI, Canva, Adobe Illustrator
 
 ## 📂 Featured Projects
 
@@ -36,15 +36,15 @@ Tools: Power BI, Power Query, DAX
 
 ## 🌱 Currently Learning
 
--SQL query optimization
+- SQL query optimization
 
--Python for Data Analysis
+- Python for Data Analysis
 
--Statistical Analysis
+- Statistical Analysis
 
--Data Visualization Best Practices
+- Data Visualization Best Practices
 
--Advanced Excel
+- Advanced Excel
 
 ## 🌐 Connect With Me
 
