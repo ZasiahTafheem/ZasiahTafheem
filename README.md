@@ -57,6 +57,6 @@ Tools: Power BI, Power Query, DAX
 
 ## 🎯 Open to Data Analytics Opportunities
 
-Interested in Junior Data Analyst, Reporting Analyst, and Business Intelligence Analyst opportunities. Passionate about using data to uncover insights, support decision-making, and create meaningful visualizations while continuing to grow my technical skills.
+Driven by a passion for data, analytics, and problem-solving, I am seeking opportunities as a Junior Data Analyst, Reporting Analyst, or Business Intelligence Analyst. I am enthusiastic about using data to uncover insights, support informed decision-making, and create meaningful visualizations that help solve real-world business challenges while continuously expanding my technical and analytical skills.
 
 ⭐ Feel free to explore my repositories and connect with me.
