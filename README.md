@@ -24,6 +24,8 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 **Visualization & Design**: Power BI, Canva, Adobe Illustrator
 
+**Content creation & Video Editing**: Openshot, Microsoft Clipchamp, Capcut
+
 ## 📂 Featured Projects
 
 ## 📈 Sales Performance Dashboard | Power BI
