@@ -32,7 +32,7 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 Developed an interactive Power BI dashboard to analyze sales performance, profit trends, and key business KPIs.
 
-Tools: Power BI, Power Query, DAX
+Tools: Power BI, Excel
 
 🔗 [View Project](https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi)
 
