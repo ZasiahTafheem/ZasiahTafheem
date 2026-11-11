@@ -18,7 +18,7 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 **Data Analytics**: Power BI, Excel, Power Query, DAX
 
-**Databases**: SQL (MySQL)
+**Databases**: SQL (in learning stage)
 
 **Programming**: Python, Pandas, NumPy
 
