@@ -55,8 +55,4 @@ Tools: Power BI, Excel
 - Email: zasiahtafheem1@gmail.com
 ---
 
-## 🎯 Open to Data Analytics Opportunities
-
-Driven by a passion for data, analytics, and problem-solving, I am seeking opportunities as a Junior Data Analyst, Reporting Analyst, or Business Intelligence Analyst. I am enthusiastic about using data to uncover insights, support informed decision-making, and create meaningful visualizations that help solve real-world business challenges while continuously expanding my technical and analytical skills.
-
 ⭐ Feel free to explore my repositories and connect with me.
