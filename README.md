@@ -56,7 +56,9 @@ Tools: Power BI, Excel, DAX
 ---
 ## 📜 Certifications
 **Power BI**
-- Introduction to Power BI | DataCamp [certificate] (https://drive.google.com/file/d/1LU_hpSO0KBwCSwTmmi9n32lwBqXc-Gmt/view?usp=drive_link)
+- Introduction to Power BI | DataCamp [certificate]
+(https://drive.google.com/file/d/1LU_hpSO0KBwCSwTmmi9n32lwBqXc-Gmt/view?usp=drive_link)
+  
   **SQL**
 - SQL for Data Analysis| Linkedin Learning [certificate](https://drive.google.com/file/d/14wMfPvIqhX0ehF1KHDeP6j3s2ScW7Ycq/view?usp=drive_link)
   
