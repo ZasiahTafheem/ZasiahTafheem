@@ -2,7 +2,7 @@
 
 📊 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in data analytics, business intelligence, and data visualization. My research background has strengthened my analytical and problem-solving abilities, and I enjoy using data to identify trends and generate insights. I am currently developing my skills in Power BI, SQL, Python, and Excel through practical projects and continuous learning.
+I am an HDR Research Student in QUT, Brisbane, Australia, with a growing interest in data analytics, business intelligence, and data visualization. My research background has strengthened my analytical and problem-solving abilities, and I enjoy using data to identify trends and generate insights. I am currently developing my skills in Power BI, SQL, Python, and Excel through practical projects and continuous learning.
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 **Data Analytics**: Power BI, Excel, Power Query, DAX
 
-**Databases**: SQL (in learning stage)
+**Databases**: SQL 
 
 **Programming**: Python, Pandas, NumPy
 
@@ -32,7 +32,7 @@ I am an HDR Research Student in QUT, Brisbane, Australia, with an interest in da
 
 Developed an interactive Power BI dashboard to analyze sales performance, profit trends, and key business KPIs.
 
-Tools: Power BI, Excel
+Tools: Power BI, Excel, DAX
 
 🔗 [View Project](https://github.com/ZasiahTafheem/executive-sales-performance-dashboard-power-bi)
 
@@ -54,5 +54,9 @@ Tools: Power BI, Excel
 
 - Email: zasiahtafheem1@gmail.com
 ---
+## 📜 Certifications
 
+- Introduction to Power BI | DataCamp [certificate](https://drive.google.com/file/d/14wMfPvIqhX0ehF1KHDeP6j3s2ScW7Ycq/view?usp=drive_link)
+- Introduction to SQL | DataCamp
+  
 ⭐ Feel free to explore my repositories and connect with me.
