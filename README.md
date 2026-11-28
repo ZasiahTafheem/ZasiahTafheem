@@ -2,7 +2,7 @@
 
 📊 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-I am an HDR Research Student in QUT, Brisbane, Australia, with a growing interest in data analytics, business intelligence, and data visualization. My research background has strengthened my analytical and problem-solving abilities, and I enjoy using data to identify trends and generate insights. I am currently developing my skills in Power BI, SQL, Python, and Excel through practical projects and continuous learning.
+I am an HDR Research Student at QUT, Brisbane, Australia, with a growing interest in data analytics, business intelligence, and data visualization. My research background has strengthened my analytical and problem-solving abilities. I enjoy using data to identify trends and generate insights that help solve real-world business challenges. I am currently building practical experience in Power BI, SQL, Python, and Excel through hands-on projects and continuous learning.
 
 ## 🚀 About Me
 
