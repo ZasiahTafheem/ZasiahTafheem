@@ -59,6 +59,7 @@ Tools: Power BI, Excel, DAX
 - Introduction to Power BI | DataCamp | [Certificate](https://drive.google.com/file/d/1LU_hpSO0KBwCSwTmmi9n32lwBqXc-Gmt/view?usp=drive_link)
   
 🗄️ **SQL**
+-  Introduction to SQL | DataCamp | [Certificate](https://drive.google.com/file/d/15RNDcGZstOod2uqvmsn4NQYBfxyymbm5/view?usp=drive_link)
 - SQL for Data Analysis | LinkedIn Learning | [Certificate](https://drive.google.com/file/d/14wMfPvIqhX0ehF1KHDeP6j3s2ScW7Ycq/view?usp=drive_link)
 - SQL for Data Analysis: Solve Business Problems | LinkedIn Learning | [Certificate](https://drive.google.com/file/d/1rLSCrPcQqlDaXqmBQoHhfqJCuiTFjMW1/view?usp=drive_link)
   
